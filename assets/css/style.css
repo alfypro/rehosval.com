@@ -79,7 +79,10 @@ p {
   background-repeat: no-repeat;
   width: 100%;
   height: 100%; }
-
+/* Personalizado */ 
+.navbar-expand-lg {
+  min-height: 74px;
+}
 /*==== Section Title =====*/
 .section-title .title {
   font-size: 44px;
@@ -98,6 +101,7 @@ p {
   margin-top: 24px; }
 
 /*===== All Preloader Style =====*/
+
 .preloader {
   /* Body Overlay */
   position: fixed;
